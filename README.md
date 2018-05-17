@@ -1,1 +1,3 @@
-This is the project on the bagisworcollege website under the guidline by University Grant Commission
+#BagisworcollegeUGC
+==========
+This is the website of bagisworcollege under the guideline by University Grant commission
